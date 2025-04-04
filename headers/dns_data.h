@@ -1,5 +1,3 @@
-/* ------------------------------ EDITED!!!! --------------------------------*/ //Apart for last routine (look for TBD)
-
 /* ------------ Routines to manipulate dns full time series ---------------- */
 
 string select_dns_data(const int iep, const int times){
